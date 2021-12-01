@@ -1,2 +1,3 @@
 sample file for the demo 
 adding second line to show versioing
+adding the content from the browser
